@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khoa Pham
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khoa
 =================================================================================================================================
 
 What you don't know is what you haven't learned
@@ -49,14 +49,6 @@ src="https://img.shields.io/github/followers/onmyway133?logo=github&style=for-th
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/onmyway133"><img src="https://github-readme-stats.vercel.app/api?username=onmyway133&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="onmyway133's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/onmyway133/RoughSwift" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onmyway133&repo=RoughSwift&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/onmyway133/awesome-ios-animation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onmyway133&repo=awesome-ios-animation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/onmyway133/awesome-ios-architecture" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onmyway133&repo=awesome-ios-architecture&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/onmyway133/Swiftlane" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onmyway133&repo=Swiftlane&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
