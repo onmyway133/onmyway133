@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khoa
 =================================================================================================================================
 
-What you don't know is what you haven't learned
------------------------------------------------
-
 I make apps and open source
 
 * 🌍  I'm based in Oslo
