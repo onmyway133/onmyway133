@@ -11,6 +11,19 @@ I make apps and open source
 
 ---
 
+### 🤖 AI Agent Tools
+
+| Repository | Stars | Description |
+|---|---|---|
+| [skill-studio](https://github.com/onmyway133/skill-studio) | ![](https://img.shields.io/github/stars/onmyway133/skill-studio?style=social) | App to manage AI Agent skills |
+| [nod](https://github.com/onmyway133/nod) | ![](https://img.shields.io/github/stars/onmyway133/nod?style=social) | Kanban markdown task manager for AI Agents |
+| [string-catalog-mcp](https://github.com/onmyway133/string-catalog-mcp) | ![](https://img.shields.io/github/stars/onmyway133/string-catalog-mcp?style=social) | MCP server for working with Xcode String Catalog |
+| [ccview](https://github.com/onmyway133/ccview) | ![](https://img.shields.io/github/stars/onmyway133/ccview?style=social) | View installed agents, skills, commands from Claude Code |
+| [cmon](https://github.com/onmyway133/cmon) | ![](https://img.shields.io/github/stars/onmyway133/cmon?style=social) | Keep Claude Code running indefinitely |
+| [pica](https://github.com/onmyway133/pica) | ![](https://img.shields.io/github/stars/onmyway133/pica?style=social) | Fetch agents, skills, commands from repos |
+
+---
+
 ### ⭐ Top Repositories
 
 | Repository | Stars | Description |
@@ -58,7 +71,7 @@ I make apps and open source
 
 ### GitHub Stats
 
-<a href="http://www.github.com/onmyway133"><img src="https://github-readme-stats.vercel.app/api?username=onmyway133&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="onmyway133's GitHub stats" /></a>
+<a href="https://streak-stats.demolab.com/?user=onmyway133"><img src="https://streak-stats.demolab.com/?user=onmyway133&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" /></a>
 
 ### Support Me
 
